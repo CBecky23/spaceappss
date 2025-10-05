@@ -41,11 +41,6 @@ This project addresses **NASA's Earth Science objectives** by:
 
 ##  Installation & Setup
 
-### Option 1: Glitch (Recommended for Demo)
-1. Visit [Glitch.com](https://glitch.com)
-2. Click "New Project" → "Import from GitHub"
-3. Paste this repository URL
-4. Your app is live instantly!
 
 ### Local Development
 ```bash
@@ -97,7 +92,7 @@ climate-copilot/
 
 ```
 
-## 🌍 How It Works
+##  How It Works
 
 ### Data Flow:
 1. **Location Detection** → Browser Geolocation API
@@ -111,7 +106,7 @@ climate-copilot/
 - **Seasonally-appropriate** gardening guidance
 - **Scalable** urban planning recommendations
 
-## 🎨 UI/UX Features
+##  UI/UX Features
 
 - **Responsive Design** - Works on all devices
 - **Modern Gradient UI** - Engaging visual design
@@ -119,7 +114,7 @@ climate-copilot/
 - **Accessible Interface** - WCAG guidelines compliance
 - **Real-time Feedback** - Immediate user responses
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] **NASA Earth Data Integration** - Satellite imagery and climate data
 - [ ] **Machine Learning Models** - Predictive heat mapping
@@ -136,7 +131,7 @@ NASA Space Apps Challenge 2025
 | Role | Name | Contribution |
 |------|------|--------------|
 | Project Lead | [Hanan Hussen] | Full-stack development, AI integration |
-| UI/UX Designer | [HIba Khalid] | Design system, user experience |
+| UI/UX Designer | [Hiba Khalid] | Design system, user experience |
 | Data Scientist | [Ammar Fennan] | Algorithm development, data analysis |
 
 
@@ -157,7 +152,7 @@ NASA Space Apps Challenge 2025
 - Heat mitigation infrastructure planning
 - Sustainable city growth strategies
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Please feel free to:
 
@@ -166,11 +161,11 @@ We welcome contributions from the community! Please feel free to:
 3. Submit a Pull Request
 4. Join our discussions
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **NASA Space Apps Challenge** for the opportunity and inspiration
 - **WeatherAPI.com** for providing reliable weather data
@@ -179,7 +174,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 
-## 🚀 Quick Start for Judges
+##  Quick Start for Judges
 1.** clone the repositary** 
 2. **Click "Get Local Climate Analysis"**
 3. **Allow location access** 
