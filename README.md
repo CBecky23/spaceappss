@@ -6,20 +6,20 @@
 
 Climate Copilot addresses the growing challenge of **urban heat islands** by providing personalized, actionable recommendations for individuals, communities, and city planners. Using real-time weather data and AI-powered analysis, our web app delivers immediate climate adaptation strategies tailored to your specific location and conditions.
 
-### 🌟 Key Features
+###  Key Features
 
-- ** Real-time Location Analysis** - Get hyper-local climate insights
-- ** Live Weather Integration** - Powered by WeatherAPI.com
-- ** AI-Powered Recommendations** - Smart suggestions for urban heat mitigation
-- ** Health & Safety Advisories** - Personalized health recommendations
-- **Energy Saving Strategies** - Optimize energy usage based on conditions
-- ** Gardening & Planting Advice** - Climate-appropriate vegetation guidance
--  **Activity Planning** - Weather-appropriate daily activities
-- **Urban Planning Insights** - Scalable solutions for city planners
--  **Emergency Preparedness** - Safety tips for extreme conditions
--  **Interactive AI Chat** - Continue conversation after initial analysis
+- Real-time Location Analysis - Get hyper-local climate insights
+- Live Weather Integration - Powered by WeatherAPI.com
+- AI-Powered Recommendations - Smart suggestions for urban heat mitigation
+- Health & Safety Advisories - Personalized health recommendations
+- Energy Saving Strategies - Optimize energy usage based on conditions
+- Gardening & Planting Advice  - Climate-appropriate vegetation guidance
+- Activity Planning - Weather-appropriate daily activities
+- Urban Planning Insights - Scalable solutions for city planners
+- Emergency Preparedness - Safety tips for extreme conditions
+- Interactive AI Chat - Continue conversation after initial analysis
 
-## 🏆 NASA Challenge Alignment
+##  NASA Challenge Alignment
 
 This project addresses **NASA's Earth Science objectives** by:
 
@@ -123,7 +123,7 @@ climate-copilot/
 - [ ] **Multi-language Support** - Global accessibility
 - [ ] **Historical Data Analysis** - Climate trend visualization
 
-## 👥 Team
+##  Team
 
 Cryochronicles: Climate Innovators  
 NASA Space Apps Challenge 2025
@@ -135,7 +135,7 @@ NASA Space Apps Challenge 2025
 | Data Scientist | [Ammar Fennan] | Algorithm development, data analysis |
 
 
-## 📊 Impact & Applications
+## Impact & Applications
 
 ### Individual Level:
 - Personal health protection during heat waves
