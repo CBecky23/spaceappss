@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Copilot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1> Climate Copilot</h1>
+            <p>Your AI assistant for urban heat solutions and climate adaptation</p>
+        </header>
+
+        <main>
+            <div class="weather-card">
+                <button id="getSuggestions" class="cta-button">
+                     Get Local Climate Analysis
+                </button>
+                <div id="locationInfo" class="location-info"></div>
+            </div>
+
+            <div id="chat" class="chat-container">
+                <div class="welcome-message">
+                    <p>Click the button above to get personalized climate analysis based on your current location and weather conditions.</p>
+                    <p>After the initial analysis, you can continue chatting with the AI assistant!</p>
+                </div>
+            </div>
+
+            <div class="chat-input-container">
+                <input type="text" id="userInput" placeholder="Ask about health tips, energy saving, gardening, urban planning...">
+                <button id="sendButton" class="send-button">Send</button>
+            </div>
+
+            <div class="data-source">
+                <p>NASA Space Apps Challenge 2025 | Powered by WeatherAPI.com</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
